@@ -1,0 +1,108 @@
+.post {
+    position: relative;
+    width: 40%;
+    height: 20%;
+    background: #fff;
+    box-shadow:0 4px 10px 0 rgba(17, 4, 63, 0.2),0 4px 20px 0 rgba(79, 19, 97, 0.19);
+    margin: 10px 10px 10px 20px;
+    float:left;
+    border-radius: 15px;
+    margin-left:5%;
+    margin-right:5%;
+}
+    
+.post-left {
+        width: 15%;            
+        max-width: 15%;
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center;
+        font-weight: bold;
+        color: #000;
+}
+#centr{
+ margin-left:30%;
+}
+.post-content {
+        width: 75%;           
+        display: table-cell;
+        text-align: left;
+        background-color: #E8E8E8;
+        color: #000000;
+        border-radius: 0 15px 15px 0;
+        padding: 0 20px;    
+}
+.post-title{
+    font-family: 'Itim', cursive;
+    font-weight: bold;
+    color: #2b312b;
+    font-size: 25px;
+    height: 30px;
+    margin-top:30px;
+    overflow:hidden;
+   
+    }
+.post-more {
+    float: right;
+    cursor: pointer;
+    font-size: 18px;
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+.post-desc{
+    line-height:1.5em;
+    height: 4.5em;
+    margin-bottom: 0 !important;
+    overflow: hidden;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    margin: 0 !important;
+  
+    background-color: orange;
+    background-size: 2000% 2000%;
+}
+.allPostsContainer {
+    height: 100%;
+    width: 100%;
+
+}
+#icon{
+    float:right;
+    margin-bottom:15px;
+    margin-top:15px;
+    background-color: #E8E8E8;
+    border:none;
+    font-size:24px;
+}
+#btn-confirm{
+    float:right;
+    border:none;
+    background-color: #E8E8E8;
+}
+.btnno{
+    background-color:lightgreen;
+    width:100px;
+    float:right;
+    margin-right:100px;
+}
+.btnyes{
+    background-color: red;
+    width:100px;
+    float:left;
+    margin-left:100px;
+}
+.btnns{
+    display:inline;
+    margin-bottom:20px;
+}
+#sure{
+    text-align:center;
+    margin-top:20px;
+    margin-bottom:10px;
+}

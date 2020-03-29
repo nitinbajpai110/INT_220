@@ -1,0 +1,73 @@
+/* Set a style for all elements inside the header i.e. Sign Up button, Sign In button, 
+the title "ScriBBler" & the sub-heading below "ScriBBLer" */
+.topButtons1{
+    position: absolute;
+    right: 0px;
+    color: white;
+    background-color: blue;
+    margin: 15px;
+    font-size: 12px;
+    font-family: Abel-Regular;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top:5px;
+    padding-bottom:5px; 
+}
+.topButtons2{
+    position: absolute;
+    right: 80px;
+    color: white;
+    background-color: blue;
+    margin: 15px;
+    font-size: 12px;
+font-family: Abel-Regular;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+#pageTitle{
+    font-style: italic;
+    color:blue;
+    font-size: 40px;
+}
+.middleText{
+    font-style: italic;
+    color:black;
+    font-size: 20px;
+    margin-top:5px;
+}
+.modal-title1{
+    margin-left:140px; 
+    font-weight:bold; 
+    font-size:25px;
+     margin-top:20px;
+}
+.modal-title2{
+    margin-left:180px;
+     font-weight:bold;
+}
+.label{
+    font-weight:bold; 
+}
+#signinbtn{
+    width:465px;
+    background-color:rgb(44, 141, 44);
+    border:none; 
+    margin-top:25px;
+}
+#notamember{
+    font-weight:bold;
+    margin-left:140px;
+    margin-top:20px;
+}
+#lnk{
+    color:blue;
+    font-weight:bold;
+}
+#signupbtn{
+    width:465px; 
+    background-color:rgb(44, 141, 44); 
+    border:none; 
+    margin-top:25px;
+}

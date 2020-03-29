@@ -1,0 +1,22 @@
+body{
+   background: url('background.jpg');
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center center;
+   background-size: cover;
+   margin: 0 !important;
+   background-size: 100% cover!important;
+   overflow:hidden;
+   display: block;
+} 
+
+#allpost{
+    background-color:rgb(199, 199, 20);
+    margin-top:190px;
+    margin-left:600px;
+   
+	
+}
+#createpost{
+    background-color:rgb(199, 199, 20);
+}
